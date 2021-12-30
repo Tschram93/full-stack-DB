@@ -1,4 +1,4 @@
 {
 "mongoURI":
-"mongodb+srv://<username>:<password>@cluster0.e7vos.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+"mongodb+srv://root:root@cluster0.e7vos.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 }
